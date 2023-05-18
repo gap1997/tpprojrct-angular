@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "gaurav properties",
+      "pprice": "150080.12",
+      "plocation":"maharastra",
+      "pdetails":"plot avalable "
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "gaurav pawar",
+      "email": "gaurav@gmail.com",
+      "mobile":"8888427099",
+      "password":"gaurav@123"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
